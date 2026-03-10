@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🗺️ Potential Field Path Planning
-### Autonomous Robot Navigation with Obstacle Avoidance — From-Scratch Python Implementation
+### Autonomous Robot Navigation with Obstacle Avoidance
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
